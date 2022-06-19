@@ -1,1 +1,0 @@
-//Obtaining the access token
